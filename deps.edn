@@ -1,0 +1,4 @@
+{:paths ["src" "resources"]
+ :deps  {net.cgrand/xforms {:mvn/version "0.19.4"}}
+ :aliases
+ {:neil {:project {:name aoc22/aoc22}}}}
